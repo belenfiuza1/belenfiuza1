@@ -1,6 +1,7 @@
 
 ### Hi there!👋 Mi nombre es Maria Belen 🔭
-#### Soy estudiante de Ingenieria en Sistemas Informaticos en la UAI. \r\n Actualmente me encuentro cursando mi segundo año de carrera 
+#### Soy estudiante de Ingenieria en Sistemas Informaticos en la UAI.
+Actualmente me encuentro cursando mi segundo año de carrera 
 #### con amplios conociemientos en:
 ####  - C#
 ####  - .NET
